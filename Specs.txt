@@ -1,0 +1,18 @@
+Sistema operativo                                 Windows 10 Pro Professional 6.2.9200 Activado + Microsoft Office Activado
+Tipo de ordenador                                 ACPI x86-based PC
+Placa base:
+      Tipo de procesador                                DualCore AMD Athlon, 3100 MHz (15.5 x 200)
+      Nombre de la Placa Base                           Desconocido
+      Chipset de la Placa Base                          nVIDIA nForce 6100-430, AMD K10
+      Memoria del Sistema                               1792 MB  (DDR2-800 DDR2 SDRAM)
+      DIMM1: Silicon-Based Tech. NA2D001G25D            1 GB DDR2-800 DDR2 SDRAM  (5-5-5-18 @ 400 MHz)  (4-4-4-12 @ 266 MHz)  (3-3-3-9 @ 200 MHz)
+      DIMM2: NovaTech Solutions NA2D001G25D             1 GB DDR2-800 DDR2 SDRAM  (5-5-5-18 @ 400 MHz)  (4-4-4-12 @ 266 MHz)  (3-3-3-9 @ 200 MHz)
+      Tipo de BIOS                                      Award Modular (09/18/09)
+
+Disco Rígido: (NTFS)                                         300 GB (284.0 GB libre)
+Propiedades del procesador:
+      Fabricante                                        AMD
+      Versión                                           AMD Phenom(tm) II X2 550 Processor
+      Reloj externo                                     200 MHz
+      Velocidad de reloj máxima                         3200 MHz
+      Velocidad de reloj actual                         3100 MHz
